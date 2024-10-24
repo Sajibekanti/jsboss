@@ -39,7 +39,6 @@ python jsboss.py -u https://example.com/somefile.js --secrets --urls
 
 ### To scan multiple JavaScript URLs from a file:
 
-```bash
 python jsboss.py -f urls.txt --secrets --urls
 ```
 
